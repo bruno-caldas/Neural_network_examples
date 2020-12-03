@@ -13,6 +13,7 @@ and for people who want just to visualize:
 Neural_network_unique_neuron.pdf
 ```
 The result of one neuron classification can be seen as
+
 ![Classification problem](img/point_cloud_separation_neuron.png "Classification with unique neuron")
 
 ## Requisitos
