@@ -16,6 +16,19 @@ The result of one neuron classification can be seen as
 
 ![Classification problem](img/point_cloud_separation_neuron.png "Classification with unique neuron")
 
+A more complete neural network can be found in:
+
+```
+Neural_network_network.ipynb
+```
+and for people who want just to visualize:
+```
+Neural_network_network.pdf
+```
+The result of Neural Network model can be seen as
+
+![Classification problem NN](img/point_cloud_separation_neural_network.png "Classification with neural netwok")
+
 ## Requisitos
 
 To reproduce results, make sure you have installed:
