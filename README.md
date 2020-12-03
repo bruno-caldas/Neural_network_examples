@@ -8,6 +8,7 @@ The linear unique neuron can be found at:
 ```
 Neural_network_unique_neuron.ipynb
 ```
+![Classification problem](img/point_cloud_separation_neuron.png "Classification with unique neuron")
 
 ## Requisitos
 
